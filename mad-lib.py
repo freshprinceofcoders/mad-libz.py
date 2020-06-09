@@ -8,14 +8,8 @@ another_colour = input("Enter a another colour:")
 
 animal = input("Enter a animal:")
 
-f"{noun} is {colour}"
-f"{plural_noun} ara {another_colour}"
-  
+print(f"{noun} is {colour}")
+print(f"{plural_noun} are {another_colour}")
+print(f"{animal} are fat")
+print(f"and so are you")
 
-
-'''
-print(noun + " is " + colour)
-print(plural_noun + " are "+ another_colour)
-print(animal + " are fat ")
-print("and so are you")
-'''
